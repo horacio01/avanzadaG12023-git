@@ -1,0 +1,8 @@
+# Archivos a ignorar en el repositiorio
+
+Nuevo documento de texto.txt
+*.tmp
+*.swp
+
+# Directorios a ignorar en el repositorio
+Debug/
